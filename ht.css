@@ -1,0 +1,93 @@
+.body
+{
+    height: 600px;
+    margin-left: 30px;
+    width: 95%;
+    background: linear-gradient(to right,rgb(189, 30, 30),rgba(243, 159, 4, 0.959),rgb(207, 85, 207));
+}
+
+.menu
+{
+    border: 2px solid yellow;
+    text-decoration: none;
+    padding:2px 85px 2px 85px;
+    background-color: yellow;
+    color: black;
+}
+
+.menu:hover
+{
+    background-color: chartreuse;
+}
+.menu:active
+{
+    background-color:orangered;
+}
+
+span a,.h1
+{
+    display:inline-block;
+    position: relative;
+    left: 360px;
+    margin-right: 220px;
+    text-decoration: none;
+    color: white;
+}
+
+.box
+{
+    
+    background-color: yellow;
+    height: 142px;
+    width: 350px;
+    
+}
+
+.float
+{
+    height:295px;
+    width:350px;
+    float: right;
+    margin-right:35px;
+}
+
+.cont1
+{
+    text-align: center;
+    padding-top:50px ;
+}
+
+.fot1
+{
+   background-color: white;
+   height: 150px;
+   width: 300px;
+   
+}
+
+.fot2
+{
+    background-color: white;
+    height: 150px;
+    width: 300px;
+   
+}
+.fot3
+{
+    background-color: white;
+    height: 150px;
+    width: 300px;
+}
+.fot4
+{
+    background-color: white;
+    height: 150px;
+    width: 300px;
+}
+
+.fot1,.fot2,.fot3,.fot4
+{
+   display: inline-block;
+   margin-right: 5px; 
+}
+
